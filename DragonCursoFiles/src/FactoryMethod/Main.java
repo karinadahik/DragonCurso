@@ -1,3 +1,4 @@
+package FactoryMethod;
 public class Main {
     public static void main(String[] args) {
         Evento e1 = EventoFactory.crearEvento("concierto", "20/04/2026", "Coliseo", 5000);

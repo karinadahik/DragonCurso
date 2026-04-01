@@ -1,3 +1,4 @@
+package FactoryMethod;
 public class EventoFactory {
 
     public static Evento crearEvento(String tipo, String fecha, String ubicacion, int aforo) {

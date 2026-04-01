@@ -1,3 +1,4 @@
+package FactoryMethod;
 public abstract class Evento implements GestionEvento {
     protected String fecha;
     protected String ubicacion;

@@ -1,3 +1,4 @@
+package FactoryMethod;
 public class Evento2 extends Evento {
     private String expositor;
 
